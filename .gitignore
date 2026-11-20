@@ -1,0 +1,8 @@
+build/
+release/
+nexus/
+*.obj
+*.exp
+*.lib
+*.pdb
+__pycache__/

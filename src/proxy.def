@@ -1,0 +1,19 @@
+LIBRARY rstrtmgr
+EXPORTS
+	RmAddFilter=Proxy_RmAddFilter @1
+	RmCancelCurrentTask=Proxy_RmCancelCurrentTask @2
+	RmEndSession=Proxy_RmEndSession @3
+	RmGetFilterList=Proxy_RmGetFilterList @4
+	RmGetList=Proxy_RmGetList @5
+	RmJoinSession=Proxy_RmJoinSession @6
+	RmRegisterResources=Proxy_RmRegisterResources @7
+	RmRemoveFilter=Proxy_RmRemoveFilter @8
+	RmReserveHeap=Proxy_RmReserveHeap @9
+	RmRestart=Proxy_RmRestart @10
+	RmShutdown=Proxy_RmShutdown @11
+	RmStartSession=Proxy_RmStartSession @12
+	DirectInput8Create=Proxy_DirectInput8Create @13
+	DllCanUnloadNow=Proxy_DllCanUnloadNow PRIVATE
+	DllGetClassObject=Proxy_DllGetClassObject PRIVATE
+	DllRegisterServer=Proxy_DllRegisterServer PRIVATE
+	DllUnregisterServer=Proxy_DllUnregisterServer PRIVATE
