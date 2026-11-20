@@ -4,7 +4,7 @@
 <a href="LICENSE"><img src="https://img.shields.io/github/license/quoteproxy/RepairReloadFix" alt="MIT license"></a>
 <a href="https://buymeacoffee.com/quoteproxy"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?logo=buymeacoffee&logoColor=000" alt="Support on Buy Me a Coffee"></a>
 
-![A smith's ledger after loading a save: eight quality I items, every one at 100%, still listed as repairs wanted. In vanilla 429 repaired items came back to the repair list after one save and load; with Repair Reload Fix, none](docs/images/hero.png)
+![Illustration of a smith's ledger after loading a save: quality I items at 100% still listed as repairs wanted. In vanilla, repaired gear comes back as needing repair after every load; with Repair Reload Fix it stays repaired](docs/images/hero.png)
 
 A native plugin for Kingdom Come: Deliverance II. In vanilla, gear you repaired to 100 % comes back as "needs
 repair" after every load: repair kits and the repair lists of smiths, armourers and tailors offer it again, even
